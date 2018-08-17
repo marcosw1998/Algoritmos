@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1470103756 source:c:\users\marck\desktop\codepit\d\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
